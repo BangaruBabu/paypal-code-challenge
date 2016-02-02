@@ -1,13 +1,13 @@
 # Paypal Code Challenge
 Address Book Code - Code Challenge
 
-Designed Two Independent Components Server and Client to project Cohesiveness 
+Designed Two Independent Components , Server and Client for Cohesiveness 
 
-# Server Component
+# Server Tech Component Stack
 -  Node and Restify
 -  MongoDB & Mongoose ODM
 
-# Client Components
+# Client Tech Component Stack
 - Angular
 - Express JS
 - HTML and BootStrap
