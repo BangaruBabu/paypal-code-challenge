@@ -1,5 +1,5 @@
 # Paypal-Code-Challenge
-Address Book Code - Responisve Code Challenge with MEAN Stack 
+Address Book Code - Code Challenge
 
 Designed Two Independent Components Server and Client to project Cohesiveness 
 
