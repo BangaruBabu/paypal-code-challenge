@@ -1,4 +1,4 @@
-//Schema for person
+//Schema for person Contacts 
 var mongoose=require('mongoose');
 var Schema = mongoose.Schema;
  
