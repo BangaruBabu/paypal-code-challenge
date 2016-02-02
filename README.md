@@ -33,5 +33,6 @@ Note:
 ![Image of Output ](https://github.com/BangaruBabu/paypal-code-challenge/blob/master/client/public/Screen-1.PNG)
 
 
-
+# Blog Post 
+- My Blog post on PayPal Integration with ASP.NET and C# having more than 2 Lakh Views , when I am working Trainee Software Engineer URL http://www.dotnetfunda.com/articles/show/928/online-payments-using-paypal-integration-with-aspnet
 
