@@ -1,4 +1,4 @@
-# paypal-code-challenge
+# Paypal-code-challenge
 Address Book Code - Responisve Code Challenge with MEAN Stack 
 
 Designed Two Independent Components  Server and Client
@@ -10,6 +10,7 @@ Designed Two Independent Components  Server and Client
 # Client Components
 - Angular
 - Express JS
+- HRML and BootStrap
 
 
 
