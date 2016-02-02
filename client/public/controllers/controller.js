@@ -1,3 +1,9 @@
+/**
+ * Author:  BangaruBabu
+ * Date : 2-Feb-2015
+ * Description:  Angular Script Controller for Displaying Data Points by hitting REST API
+ * 
+ * /
 
 /* Initialize myApp angular app */
 angular.module('myApp', []).controller('namesCtrl', function($scope,$http) {
