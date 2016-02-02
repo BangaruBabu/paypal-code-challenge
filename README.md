@@ -10,10 +10,18 @@ Designed Two Independent Components Server and Client to project Cohesiveness
 # Client Components
 - Angular
 - Express JS
-- HTML and BootStrap5
+- HTML and BootStrap
 
 # Steps to Run Server
-- Clone GitHub Repository :  
+- Clone GitHub Repository using URL https://github.com/BangaruBabu/paypal-code-challenge.git
+- We will get two Directories Under Root Folder
+  1) Client 2) Server Under 
+- Access Server Folder from Command Prompt and run "node app" to run REST API
+- This RESTFul API will run on 8080 port. 
+
+Note:  
+- DBUri has been targeted to DaaS SandBox Account (MongoLab) . We can change by locating server/Config/config.js file
+- We can test server by accessing http://localhost:8080/api/v1/persons
 
 
 
