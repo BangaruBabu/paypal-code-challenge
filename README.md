@@ -23,6 +23,12 @@ Note:
 - DBUri has been targeted to DaaS SandBox Account (MongoLab) . We can change by locating server/Config/config.js file
 - We can test server by accessing http://localhost:8080/api/v1/persons
 
+# Steps to Run Client
+- Open Client Directory 
+- Access Client folder through command prompt and hit "node server" to run web client
+- Note: If we change port in Server , please configure the same in Client/Controllers/controller.js as i have hard coded URL
+- We can access by hitting http://localhost:8000 
+
 
 
 
