@@ -29,6 +29,9 @@ Note:
 - Note: If we change port in Server , please configure the same in Client/Controllers/controller.js as i have hard coded URL
 - We can access by hitting http://localhost:8000 
 
+# OutPut Screen
+![Alt text](https://drive.google.com/file/d/0B6AHaNdaKh64dmFlZXJhNV9RWlU/view "OutPutScreen")
+
 
 
 
