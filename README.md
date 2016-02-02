@@ -29,7 +29,7 @@ Note:
 - Note: If we change port in Server , please configure the same in Client/Controllers/controller.js as i have hard coded URL
 - We can access by hitting http://localhost:8000 
 
-# OutPut Screen
+#  Screenshot
 ![Image of Output ](https://github.com/BangaruBabu/paypal-code-challenge/blob/master/client/public/Screen-1.PNG)
 
 
