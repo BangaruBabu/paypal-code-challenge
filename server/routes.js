@@ -1,4 +1,4 @@
-//Instaniate restify NPM Module
+//Instantiate restify NPM Module
 var restify = require('restify');
 
 //Instaniate the Contact controller Objects 
