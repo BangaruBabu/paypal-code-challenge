@@ -13,8 +13,7 @@ Designed Two Independent Components Server and Client to project Cohesiveness
 - HTML and BootStrap5
 
 # Steps to Run Server
-
-- Clone GitHub Repository 
+- Clone GitHub Repository :  
 
 
 
