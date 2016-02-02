@@ -30,7 +30,7 @@ Note:
 - We can access by hitting http://localhost:8000 
 
 # OutPut Screen
-![Image of Output ](https://drive.google.com/file/d/0B6AHaNdaKh64dmFlZXJhNV9RWlU/view)
+![Image of Output ](https://github.com/BangaruBabu/paypal-code-challenge/blob/master/client/public/Screen-1.PNG)
 
 
 
