@@ -63,7 +63,7 @@ PersonManager.prototype.createPerson = function (req, res, next) {
 
 /**
 * @parameters : id,
-* descripion: Delete Bird Record by passing ID
+* descripion: Delete Person Record by passing ID
 * POST: Persons
 * Host: localhost
 * Content-Type:String  
